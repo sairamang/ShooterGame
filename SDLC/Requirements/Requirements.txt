@@ -1,0 +1,20 @@
+Requirements to be Done:
+
+1.Create a C++ Application for Shooter Game
+2.Add Music to the Game
+3.Add Shooter Spacecraft to the game
+4.Get Input from Keyboard keys 
+5.Use Guns and Shooter Beams for the space craft
+6.Randomly populate the screen with Space Invaders
+7.Populate the entire screen with the objects
+8.Use Weapons and gun strikes for the game
+
+
+Tech Stack
+1.Application : C++
+2.Music : irrklang Audio Library
+3.UI : Open GL
+4.Keys Input : Open GL
+5.Game Engine: Event Handler Design Pattern
+
+
