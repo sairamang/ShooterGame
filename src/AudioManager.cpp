@@ -26,3 +26,8 @@ void AudioManager::playSound(std::string SoundPath)
 {
     engine->play2D(SoundPath.c_str(), true);
 }
+
+void AudioManager::destroy()
+{
+    engine->drop(); // delete engine
+}

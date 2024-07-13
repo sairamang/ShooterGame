@@ -1,11 +1,21 @@
 #include <iostream>
 #include <AudioManager.hpp>
+#include <Objects.hpp>
 
 int main()
 {
     std::cout << "Simple Shooter Game for Fun" << std::endl;
     auto audioManagerPtr = AudioManager::getInstance();
     audioManagerPtr->initializeAudio();
+
+    auto InvaderFactory = std::make_shared<InvadersFactory>();
+    auto PowerUpsFactory = std::make_shared<PowerUpFactory>();
+    auto invader = InvaderFactory->CreateGameObject();
+    auto powerup = PowerUpsFactory->CreateGameObject();
+
+    invader->show();
+    powerup->show();
+
     char i;
     while (i != 'q')
     {
@@ -15,5 +25,10 @@ int main()
 
         std::cin >> i; // wait for user to press some key
     }
+    audioManagerPtr->destroy();
+
+    invader->destroy();
+    powerup->destroy();
+
     return 0;
 }

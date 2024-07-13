@@ -11,6 +11,5 @@ class AudioManager
         static AudioManager* getInstance();
         void initializeAudio();
         void playSound(std::string SoundPath);
-
-     
+        void destroy();
 };
