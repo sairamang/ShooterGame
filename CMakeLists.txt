@@ -8,5 +8,6 @@ link_directories(${CMAKE_CURRENT_SOURCE_DIR}/lib)
 add_executable(ShooterGame 
                main.cpp
                src/AudioManager.cpp
-               src/Objects.cpp)
+               src/Objects.cpp
+               src/ScreenHandler.cpp)
 target_link_libraries(ShooterGame IrrKlang)

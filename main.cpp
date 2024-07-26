@@ -1,6 +1,7 @@
 #include <iostream>
 #include <AudioManager.hpp>
 #include <Objects.hpp>
+#include <ScreenHandler.hpp>
 
 int main()
 {
@@ -12,6 +13,9 @@ int main()
     auto PowerUpsFactory = std::make_shared<PowerUpFactory>();
     auto invader = InvaderFactory->CreateGameObject();
     auto powerup = PowerUpsFactory->CreateGameObject();
+
+    auto ScreenHandlerInstance = ScreenHandler::getInstance();
+    ScreenHandlerInstance->start({720,480});
 
     invader->show();
     powerup->show();
@@ -29,6 +33,7 @@ int main()
 
     invader->destroy();
     powerup->destroy();
+    ScreenHandlerInstance->destroy();
 
     return 0;
 }
