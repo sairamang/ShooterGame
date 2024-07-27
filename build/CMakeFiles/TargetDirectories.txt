@@ -1,3 +1,0 @@
-/home/vboxuser/Workspace/ShooterGame/build/CMakeFiles/ShooterGame.dir
-/home/vboxuser/Workspace/ShooterGame/build/CMakeFiles/edit_cache.dir
-/home/vboxuser/Workspace/ShooterGame/build/CMakeFiles/rebuild_cache.dir

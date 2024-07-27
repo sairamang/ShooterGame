@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/ShooterGame.dir/main.cpp.o CMakeFiles/ShooterGame.dir/src/AudioManager.cpp.o CMakeFiles/ShooterGame.dir/src/Objects.cpp.o CMakeFiles/ShooterGame.dir/src/ScreenHandler.cpp.o -o ShooterGame   -L/home/vboxuser/Workspace/ShooterGame/lib  -Wl,-rpath,/home/vboxuser/Workspace/ShooterGame/lib -lIrrKlang 
