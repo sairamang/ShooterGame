@@ -9,17 +9,19 @@ AudioManager *AudioManager::getInstance()
     }
     return m_instance;
 }
-void AudioManager::initializeAudio()
+bool AudioManager::initializeAudio()
 {
 
     engine = createIrrKlangDevice();
     if (!engine)
     {
         std::cout << "Audio Initialization Failed" << std::endl;
+        return false;
     }
     else
     {
         std::cout << "Audio Systems Initialized" << std::endl;
+        return true;
     }
 }
 void AudioManager::playSound(std::string SoundPath)

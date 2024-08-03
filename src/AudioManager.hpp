@@ -9,7 +9,7 @@ class AudioManager
         ISoundEngine* engine;
     public:
         static AudioManager* getInstance();
-        void initializeAudio();
+        bool initializeAudio();
         void playSound(std::string SoundPath);
         void destroy();
 };
