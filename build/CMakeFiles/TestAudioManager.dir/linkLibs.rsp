@@ -1,0 +1,1 @@
+  -L"C:/Users/SAIRAM~1/Root/SHOOTE~1/lib/gcc-32"  lib/libgtest_main.a -lIrrKlang libShooterGame.a lib/libgtest.a -lIrrKlang -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\TestAudioManager.dir/objects.a
+C:\PROGRA~2\mingw32\bin\ar.exe qc CMakeFiles\TestAudioManager.dir/objects.a @CMakeFiles\TestAudioManager.dir\objects1.rsp
+C:\PROGRA~2\mingw32\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\TestAudioManager.dir/objects.a -Wl,--no-whole-archive -o TestAudioManager.exe -Wl,--out-implib,libTestAudioManager.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TestAudioManager.dir\linkLibs.rsp

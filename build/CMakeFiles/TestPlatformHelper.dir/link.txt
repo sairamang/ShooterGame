@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\TestPlatformHelper.dir/objects.a
+C:\PROGRA~2\mingw32\bin\ar.exe qc CMakeFiles\TestPlatformHelper.dir/objects.a @CMakeFiles\TestPlatformHelper.dir\objects1.rsp
+C:\PROGRA~2\mingw32\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\TestPlatformHelper.dir/objects.a -Wl,--no-whole-archive -o TestPlatformHelper.exe -Wl,--out-implib,libTestPlatformHelper.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TestPlatformHelper.dir\linkLibs.rsp

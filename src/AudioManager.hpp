@@ -10,6 +10,6 @@ class AudioManager
     public:
         static AudioManager* getInstance();
         bool initializeAudio();
-        void playSound(std::string SoundPath);
-        void destroy();
+        bool playSound(std::string SoundPath);
+        bool destroy();
 };

@@ -24,12 +24,22 @@ bool AudioManager::initializeAudio()
         return true;
     }
 }
-void AudioManager::playSound(std::string SoundPath)
+bool AudioManager::playSound(std::string SoundPath)
 {
-    engine->play2D(SoundPath.c_str(), true);
+    if (engine)
+    {
+        engine->play2D(SoundPath.c_str(), true);
+        return true;
+    }
+    else
+    {
+        return false;
+    }
 }
 
-void AudioManager::destroy()
+bool AudioManager::destroy()
 {
     engine->drop(); // delete engine
+    engine = nullptr;
+    return true;
 }

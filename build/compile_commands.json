@@ -1,0 +1,104 @@
+[
+{
+  "directory": "C:/Users/Sai Raman G/Root/ShooterGame/build",
+  "command": "C:\\PROGRA~2\\mingw32\\bin\\G__~1.EXE  @CMakeFiles/ShooterGameEXE.dir/includes_CXX.rsp -g -o CMakeFiles\\ShooterGameEXE.dir\\main.cpp.obj -c \"C:\\Users\\Sai Raman G\\Root\\ShooterGame\\main.cpp\"",
+  "file": "C:/Users/Sai Raman G/Root/ShooterGame/main.cpp",
+  "output": "CMakeFiles/ShooterGameEXE.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Sai Raman G/Root/ShooterGame/build",
+  "command": "C:\\PROGRA~2\\mingw32\\bin\\G__~1.EXE  @CMakeFiles/ShooterGameEXE.dir/includes_CXX.rsp -g -o CMakeFiles\\ShooterGameEXE.dir\\src\\AudioManager.cpp.obj -c \"C:\\Users\\Sai Raman G\\Root\\ShooterGame\\src\\AudioManager.cpp\"",
+  "file": "C:/Users/Sai Raman G/Root/ShooterGame/src/AudioManager.cpp",
+  "output": "CMakeFiles/ShooterGameEXE.dir/src/AudioManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Sai Raman G/Root/ShooterGame/build",
+  "command": "C:\\PROGRA~2\\mingw32\\bin\\G__~1.EXE  @CMakeFiles/ShooterGameEXE.dir/includes_CXX.rsp -g -o CMakeFiles\\ShooterGameEXE.dir\\src\\Objects.cpp.obj -c \"C:\\Users\\Sai Raman G\\Root\\ShooterGame\\src\\Objects.cpp\"",
+  "file": "C:/Users/Sai Raman G/Root/ShooterGame/src/Objects.cpp",
+  "output": "CMakeFiles/ShooterGameEXE.dir/src/Objects.cpp.obj"
+},
+{
+  "directory": "C:/Users/Sai Raman G/Root/ShooterGame/build",
+  "command": "C:\\PROGRA~2\\mingw32\\bin\\G__~1.EXE  @CMakeFiles/ShooterGameEXE.dir/includes_CXX.rsp -g -o CMakeFiles\\ShooterGameEXE.dir\\src\\ScreenHandler.cpp.obj -c \"C:\\Users\\Sai Raman G\\Root\\ShooterGame\\src\\ScreenHandler.cpp\"",
+  "file": "C:/Users/Sai Raman G/Root/ShooterGame/src/ScreenHandler.cpp",
+  "output": "CMakeFiles/ShooterGameEXE.dir/src/ScreenHandler.cpp.obj"
+},
+{
+  "directory": "C:/Users/Sai Raman G/Root/ShooterGame/build",
+  "command": "C:\\PROGRA~2\\mingw32\\bin\\G__~1.EXE  @CMakeFiles/ShooterGame.dir/includes_CXX.rsp -g -o CMakeFiles\\ShooterGame.dir\\main.cpp.obj -c \"C:\\Users\\Sai Raman G\\Root\\ShooterGame\\main.cpp\"",
+  "file": "C:/Users/Sai Raman G/Root/ShooterGame/main.cpp",
+  "output": "CMakeFiles/ShooterGame.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Sai Raman G/Root/ShooterGame/build",
+  "command": "C:\\PROGRA~2\\mingw32\\bin\\G__~1.EXE  @CMakeFiles/ShooterGame.dir/includes_CXX.rsp -g -o CMakeFiles\\ShooterGame.dir\\src\\AudioManager.cpp.obj -c \"C:\\Users\\Sai Raman G\\Root\\ShooterGame\\src\\AudioManager.cpp\"",
+  "file": "C:/Users/Sai Raman G/Root/ShooterGame/src/AudioManager.cpp",
+  "output": "CMakeFiles/ShooterGame.dir/src/AudioManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Sai Raman G/Root/ShooterGame/build",
+  "command": "C:\\PROGRA~2\\mingw32\\bin\\G__~1.EXE  @CMakeFiles/ShooterGame.dir/includes_CXX.rsp -g -o CMakeFiles\\ShooterGame.dir\\src\\Objects.cpp.obj -c \"C:\\Users\\Sai Raman G\\Root\\ShooterGame\\src\\Objects.cpp\"",
+  "file": "C:/Users/Sai Raman G/Root/ShooterGame/src/Objects.cpp",
+  "output": "CMakeFiles/ShooterGame.dir/src/Objects.cpp.obj"
+},
+{
+  "directory": "C:/Users/Sai Raman G/Root/ShooterGame/build",
+  "command": "C:\\PROGRA~2\\mingw32\\bin\\G__~1.EXE  @CMakeFiles/ShooterGame.dir/includes_CXX.rsp -g -o CMakeFiles\\ShooterGame.dir\\src\\ScreenHandler.cpp.obj -c \"C:\\Users\\Sai Raman G\\Root\\ShooterGame\\src\\ScreenHandler.cpp\"",
+  "file": "C:/Users/Sai Raman G/Root/ShooterGame/src/ScreenHandler.cpp",
+  "output": "CMakeFiles/ShooterGame.dir/src/ScreenHandler.cpp.obj"
+},
+{
+  "directory": "C:/Users/Sai Raman G/Root/ShooterGame/build",
+  "command": "C:\\PROGRA~2\\mingw32\\bin\\G__~1.EXE  @CMakeFiles/ShooterGame.dir/includes_CXX.rsp -g -o CMakeFiles\\ShooterGame.dir\\src\\PlatformHelper.cc.obj -c \"C:\\Users\\Sai Raman G\\Root\\ShooterGame\\src\\PlatformHelper.cc\"",
+  "file": "C:/Users/Sai Raman G/Root/ShooterGame/src/PlatformHelper.cc",
+  "output": "CMakeFiles/ShooterGame.dir/src/PlatformHelper.cc.obj"
+},
+{
+  "directory": "C:/Users/Sai Raman G/Root/ShooterGame/build",
+  "command": "C:\\PROGRA~2\\mingw32\\bin\\G__~1.EXE  @CMakeFiles/TestMain.dir/includes_CXX.rsp -g -o CMakeFiles\\TestMain.dir\\test\\TestMain.cpp.obj -c \"C:\\Users\\Sai Raman G\\Root\\ShooterGame\\test\\TestMain.cpp\"",
+  "file": "C:/Users/Sai Raman G/Root/ShooterGame/test/TestMain.cpp",
+  "output": "CMakeFiles/TestMain.dir/test/TestMain.cpp.obj"
+},
+{
+  "directory": "C:/Users/Sai Raman G/Root/ShooterGame/build",
+  "command": "C:\\PROGRA~2\\mingw32\\bin\\G__~1.EXE  @CMakeFiles/TestAudioManager.dir/includes_CXX.rsp -g -o CMakeFiles\\TestAudioManager.dir\\test\\TestAudioManager.cpp.obj -c \"C:\\Users\\Sai Raman G\\Root\\ShooterGame\\test\\TestAudioManager.cpp\"",
+  "file": "C:/Users/Sai Raman G/Root/ShooterGame/test/TestAudioManager.cpp",
+  "output": "CMakeFiles/TestAudioManager.dir/test/TestAudioManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Sai Raman G/Root/ShooterGame/build",
+  "command": "C:\\PROGRA~2\\mingw32\\bin\\G__~1.EXE  @CMakeFiles/TestPlatformHelper.dir/includes_CXX.rsp -g -o CMakeFiles\\TestPlatformHelper.dir\\test\\TestPlatformHelper.cpp.obj -c \"C:\\Users\\Sai Raman G\\Root\\ShooterGame\\test\\TestPlatformHelper.cpp\"",
+  "file": "C:/Users/Sai Raman G/Root/ShooterGame/test/TestPlatformHelper.cpp",
+  "output": "CMakeFiles/TestPlatformHelper.dir/test/TestPlatformHelper.cpp.obj"
+},
+{
+  "directory": "C:/Users/Sai Raman G/Root/ShooterGame/build",
+  "command": "C:\\PROGRA~2\\mingw32\\bin\\G__~1.EXE  @CMakeFiles/TestObject.dir/includes_CXX.rsp -g -o CMakeFiles\\TestObject.dir\\test\\TestObject.cpp.obj -c \"C:\\Users\\Sai Raman G\\Root\\ShooterGame\\test\\TestObject.cpp\"",
+  "file": "C:/Users/Sai Raman G/Root/ShooterGame/test/TestObject.cpp",
+  "output": "CMakeFiles/TestObject.dir/test/TestObject.cpp.obj"
+},
+{
+  "directory": "C:/Users/Sai Raman G/Root/ShooterGame/build/gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googlemock",
+  "command": "C:\\PROGRA~2\\mingw32\\bin\\G__~1.EXE  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"C:\\Users\\Sai Raman G\\Root\\ShooterGame\\gtest\\googletest-03597a01ee50ed33e9dfd640b249b4be3799d395\\googlemock\\src\\gmock-all.cc\"",
+  "file": "C:/Users/Sai Raman G/Root/ShooterGame/gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googlemock/src/gmock-all.cc",
+  "output": "gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "C:/Users/Sai Raman G/Root/ShooterGame/build/gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googlemock",
+  "command": "C:\\PROGRA~2\\mingw32\\bin\\G__~1.EXE  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"C:\\Users\\Sai Raman G\\Root\\ShooterGame\\gtest\\googletest-03597a01ee50ed33e9dfd640b249b4be3799d395\\googlemock\\src\\gmock_main.cc\"",
+  "file": "C:/Users/Sai Raman G/Root/ShooterGame/gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googlemock/src/gmock_main.cc",
+  "output": "gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "C:/Users/Sai Raman G/Root/ShooterGame/build/gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googletest",
+  "command": "C:\\PROGRA~2\\mingw32\\bin\\G__~1.EXE  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\Users\\Sai Raman G\\Root\\ShooterGame\\gtest\\googletest-03597a01ee50ed33e9dfd640b249b4be3799d395\\googletest\\src\\gtest-all.cc\"",
+  "file": "C:/Users/Sai Raman G/Root/ShooterGame/gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googletest/src/gtest-all.cc",
+  "output": "gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Users/Sai Raman G/Root/ShooterGame/build/gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googletest",
+  "command": "C:\\PROGRA~2\\mingw32\\bin\\G__~1.EXE  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\Users\\Sai Raman G\\Root\\ShooterGame\\gtest\\googletest-03597a01ee50ed33e9dfd640b249b4be3799d395\\googletest\\src\\gtest_main.cc\"",
+  "file": "C:/Users/Sai Raman G/Root/ShooterGame/gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googletest/src/gtest_main.cc",
+  "output": "gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+}
+]

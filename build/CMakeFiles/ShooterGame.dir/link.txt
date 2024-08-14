@@ -1,0 +1,2 @@
+C:\PROGRA~2\mingw32\bin\ar.exe qc libShooterGame.a CMakeFiles/ShooterGame.dir/main.cpp.obj CMakeFiles/ShooterGame.dir/src/AudioManager.cpp.obj CMakeFiles/ShooterGame.dir/src/Objects.cpp.obj CMakeFiles/ShooterGame.dir/src/ScreenHandler.cpp.obj CMakeFiles/ShooterGame.dir/src/PlatformHelper.cc.obj
+C:\PROGRA~2\mingw32\bin\ranlib.exe libShooterGame.a

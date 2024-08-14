@@ -1,0 +1,238 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-gtest.googletest-03597a01ee50ed33e9dfd640b249b4be3799d395-Debug-d9277050b425b6bcf311.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395"
+				},
+				{
+					"build" : "gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googlemock",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-gtest.googletest-03597a01ee50ed33e9dfd640b249b4be3799d395.googlemock-Debug-488eef71b520d552a2be.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googlemock",
+					"targetIndexes" : 
+					[
+						6,
+						7
+					]
+				},
+				{
+					"build" : "gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googletest",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-gtest.googletest-03597a01ee50ed33e9dfd640b249b4be3799d395.googletest-Debug-16ff33dab14062f7a56a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 3,
+					"source" : "gtest/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googletest",
+					"targetIndexes" : 
+					[
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ShooterGame",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "googletest-distribution",
+					"parentIndex" : 0
+				},
+				{
+					"childIndexes" : 
+					[
+						3
+					],
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "gmock",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						6,
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "gtest",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ShooterGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ShooterGame-Debug-2bfea7b1e20d904a8b7a.json",
+					"name" : "ShooterGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ShooterGameEXE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ShooterGameEXE-Debug-eceff1cdf3572a1f9531.json",
+					"name" : "ShooterGameEXE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestAudioManager::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestAudioManager-Debug-e95e3333e52fd77cf810.json",
+					"name" : "TestAudioManager",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestMain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestMain-Debug-47881b74bf6433f711bd.json",
+					"name" : "TestMain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestObject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestObject-Debug-921bb7559190d888ef1c.json",
+					"name" : "TestObject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestPlatformHelper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestPlatformHelper-Debug-6cd08e5be5f60de87254.json",
+					"name" : "TestPlatformHelper",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gmock::@69dcab3ebceb2a0f7df9",
+					"jsonFile" : "target-gmock-Debug-dc57a19b96147afa4382.json",
+					"name" : "gmock",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gmock_main::@69dcab3ebceb2a0f7df9",
+					"jsonFile" : "target-gmock_main-Debug-49227d21211616a247df.json",
+					"name" : "gmock_main",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gtest::@5c6ebf6eb80885c74877",
+					"jsonFile" : "target-gtest-Debug-d589bcc6029b22da488f.json",
+					"name" : "gtest",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gtest_main::@5c6ebf6eb80885c74877",
+					"jsonFile" : "target-gtest_main-Debug-11852edf6692d7f59abf.json",
+					"name" : "gtest_main",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Sai Raman G/Root/ShooterGame/build",
+		"source" : "C:/Users/Sai Raman G/Root/ShooterGame"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
